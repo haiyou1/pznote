@@ -1,0 +1,1 @@
+import{d as a,a as s,b as t,F as o,e,o as n,H as c}from"./index-BnFLykk3.js";const r=e("div",{class:"page"},[e("div",{class:"mdcontent"})],-1),p=a({__name:"subnote1_2",setup(_){return(d,m)=>(n(),s(o,null,[t(c),r],64))}});export{p as default};
