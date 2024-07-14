@@ -1,0 +1,1 @@
+import{d as o,r as t,c as n,a,b as s,M as r,o as c,_}from"./index-DrWV7CLR.js";const d={class:"container"},p={class:"page"},i={class:"mdcontent"},h=o({__name:"easyQArray1_1",setup(l){const e=t("");return e.value="markdown/algorithm/easy/easyQArray1.md",(m,u)=>(c(),n("div",d,[a(_),s("div",p,[s("div",i,[a(r,{noteprops:e.value},null,8,["noteprops"])])])]))}});export{h as default};

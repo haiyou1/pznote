@@ -1,0 +1,1 @@
+import{d as t,r as a,c as n,a as s,b as o,M as c,o as r,_}from"./index-DrWV7CLR.js";const d={class:"container"},p={class:"page"},i={class:"mdcontent"},v=t({__name:"subnote1_1",setup(l){const e=a("");return e.value="markdown/test.md",(m,u)=>(r(),n("div",d,[s(_),o("div",p,[o("div",i,[s(c,{noteprops:e.value},null,8,["noteprops"])])])]))}});export{v as default};
